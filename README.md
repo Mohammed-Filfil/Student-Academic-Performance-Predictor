@@ -28,4 +28,4 @@ In educational institutions, early identification of struggling students is crit
 
 Clone the repository:
 ```bash
-git clone [https://github.com/Mohammed-Filfil/Student-Academic-Performance-Predictor](https://github.com/Mohammed-Filfil/Student-Academic-Performance-Predictor)
+git clone https://github.com/Mohammed-Filfil/Student-Academic-Performance-Predictor
