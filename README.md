@@ -24,4 +24,4 @@ In educational institutions, early identification of struggling students is crit
 ## 🚀 How to Run the Code
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mohammad-filfil/Student-Academic-Performance-Predictor.git
+   git clone https://github.com/Mohammed-Filfil/Student-Academic-Performance-Predictor
